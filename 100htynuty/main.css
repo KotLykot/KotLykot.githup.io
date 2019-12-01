@@ -1,0 +1,25 @@
+
+    body {
+    font-family: arial, verdana, tahoma, sans-serif;
+    font-size: 12px;
+    background-color: black;
+    max-width: 550px;
+    padding: 0px;
+    background: #111;
+    margin: auto;
+    word-wrap: break-word;
+}
+p{
+}
+.p1{
+color: white;
+}
+.p2{
+color: orange;
+}
+.p3{
+color: orange;
+}
+.p4{
+color: orange;
+}
